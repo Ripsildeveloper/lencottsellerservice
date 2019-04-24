@@ -1,0 +1,7 @@
+{
+    "uid": "seller",
+    "append": true,
+    "watch": true,
+    "script": "server.js",
+    "sourceDir": "/home/ubuntu/my-folder/app/service-seller/src"
+}
